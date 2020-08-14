@@ -7,3 +7,5 @@ class Multiples
     @limit = limit
     @multiples = collect_multiples
   end
+
+end
