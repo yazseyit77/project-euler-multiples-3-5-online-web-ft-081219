@@ -16,5 +16,5 @@ class Multiples
     @multiples.reduce(0, :+)
   end
 
-    
+
 end
